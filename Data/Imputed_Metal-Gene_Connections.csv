@@ -1,0 +1,403 @@
+﻿chem,gene,gene_product,#_chem-gene_product_Pubmed_Abstracts
+titanium,SPP1,secreted phosphoprotein 1,288
+chromium,IL2,interleukin 2,277
+cobalt,INS,insulin,273
+cobalt,POR,cytochrome p450 oxidoreductase,203
+titanium,IL1B,interleukin 1 beta,157
+nickel,IFNG,interferon gamma,139
+nickel,JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",123
+titanium,JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",123
+titanium,VEGFA,vascular endothelial growth factor A,115
+cobalt,TF,transferrin,111
+titanium,CASP3,caspase 3,101
+cobalt,LYZ,lysozyme,86
+cobalt,IL1B,interleukin 1 beta,79
+nickel,FDXR,ferredoxin reductase,66
+cobalt,MTF1,metal regulatory transcription factor 1,61
+cobalt,NOS3,nitric oxide synthase 3,60
+nickel,IL2,interleukin 2,57
+titanium,IGF1,insulin like growth factor 1,57
+chromium,EPO,erythropoietin,54
+nickel,IL4,interleukin 4,54
+cobalt,GPT,glutamic--pyruvic transaminase,53
+cobalt,GSR,glutathione-disulfide reductase,52
+nickel,TF,transferrin,50
+cobalt,MMP2,matrix metallopeptidase 2,49
+titanium,IFNG,interferon gamma,47
+titanium,MMP2,matrix metallopeptidase 2,47
+cobalt,PTGS2,prostaglandin-endoperoxide synthase 2,46
+cobalt,INSR,insulin receptor,42
+nickel,EGFR,epidermal growth factor receptor,41
+titanium,MMP9,matrix metallopeptidase 9,40
+cobalt,CASP9,caspase 9,39
+cobalt,TGFB1,transforming growth factor beta 1,39
+titanium,IL4,interleukin 4,38
+titanium,PTGS2,prostaglandin-endoperoxide synthase 2,38
+chromium,EGFR,epidermal growth factor receptor,37
+titanium,TP53,tumor protein p53,37
+nickel,EPO,erythropoietin,35
+cobalt,ARNT,aryl hydrocarbon receptor nuclear translocator,34
+cobalt,MMP9,matrix metallopeptidase 9,34
+cobalt,G6PD,glucose-6-phosphate dehydrogenase,33
+cobalt,BCL2,BCL2 apoptosis regulator,32
+titanium,GSR,glutathione-disulfide reductase,32
+titanium,EGFR,epidermal growth factor receptor,31
+titanium,HMOX1,heme oxygenase 1,31
+titanium,MAP3K5,mitogen-activated protein kinase kinase kinase 5,31
+chromium,IL4,interleukin 4,30
+cobalt,ACE,angiotensin I converting enzyme,29
+cobalt,GOT1,glutamic-oxaloacetic transaminase 1,29
+nickel,APP,amyloid beta precursor protein,29
+titanium,NOS3,nitric oxide synthase 3,28
+nickel,CA1,carbonic anhydrase 1,27
+nickel,MAP3K5,mitogen-activated protein kinase kinase kinase 5,27
+chromium,IGF1,insulin like growth factor 1,26
+titanium,ICAM1,intercellular adhesion molecule 1,25
+titanium,IL2,interleukin 2,25
+cobalt,ICAM1,intercellular adhesion molecule 1,24
+cobalt,STAT3,signal transducer and activator of transcription 3,23
+cobalt,CASP8,caspase 8,22
+cobalt,POLB,DNA polymerase beta,21
+titanium,AFP,alpha fetoprotein,21
+cobalt,MYC,"MYC proto-oncogene, bHLH transcription factor",20
+cobalt,TXN,thioredoxin,20
+cobalt,SPP1,secreted phosphoprotein 1,19
+cobalt,HPRT1,hypoxanthine phosphoribosyltransferase 1,17
+nickel,HMOX1,heme oxygenase 1,17
+titanium,CASP9,caspase 9,17
+titanium,NLRP3,NLR family pyrin domain containing 3,17
+cobalt,SLC2A1,solute carrier family 2 member 1,16
+cobalt,HK2,hexokinase 2,15
+cobalt,AFP,alpha fetoprotein,14
+cobalt,CDH1,cadherin 1,14
+cobalt,IGF2,insulin like growth factor 2,14
+cobalt,MIR21,microRNA 21,13
+cobalt,SP1,Sp1 transcription factor,13
+nickel,ABCB1,ATP binding cassette subfamily B member 1,13
+nickel,TAP1,"transporter 1, ATP binding cassette subfamily B member",13
+cobalt,PRNP,prion protein,12
+cobalt,TIMP1,TIMP metallopeptidase inhibitor 1,12
+nickel,CA2,carbonic anhydrase 2,12
+chromium,AHR,aryl hydrocarbon receptor,11
+cobalt,GGT1,gamma-glutamyltransferase 1,11
+nickel,TIMP1,TIMP metallopeptidase inhibitor 1,11
+titanium,APP,amyloid beta precursor protein,11
+titanium,MAPK3,mitogen-activated protein kinase 3,11
+cobalt,BAX,"BCL2 associated X, apoptosis regulator",10
+titanium,MAPK1,mitogen-activated protein kinase 1,10
+chromium,VEGFA,vascular endothelial growth factor A,9
+cobalt,CASP7,caspase 7,9
+nickel,AHR,aryl hydrocarbon receptor,9
+titanium,CASP8,caspase 8,9
+titanium,IGF2,insulin like growth factor 2,9
+cobalt,CREBBP,CREB binding protein,8
+cobalt,NTS,neurotensin,8
+titanium,F2,"coagulation factor II, thrombin",8
+titanium,HIF1A,hypoxia inducible factor 1 subunit alpha,8
+titanium,PARP1,poly(ADP-ribose) polymerase 1,8
+titanium,SOD2,superoxide dismutase 2,8
+chromium,CA1,carbonic anhydrase 1,7
+cobalt,ALPL,"alkaline phosphatase, biomineralization associated",7
+cobalt,NLRP3,NLR family pyrin domain containing 3,7
+cobalt,PC,pyruvate carboxylase,7
+nickel,CCNG2,cyclin G2,7
+nickel,METAP2,methionyl aminopeptidase 2,7
+titanium,FDXR,ferredoxin reductase,7
+titanium,G6PD,glucose-6-phosphate dehydrogenase,7
+titanium,PRNP,prion protein,7
+chromium,APP,amyloid beta precursor protein,6
+cobalt,CYBRD1,cytochrome b reductase 1,6
+nickel,CAB39,calcium binding protein 39,6
+nickel,METAP1,methionyl aminopeptidase 1,6
+nickel,VDR,vitamin D receptor,6
+titanium,MAPT,microtubule associated protein tau,6
+titanium,MTF1,metal regulatory transcription factor 1,6
+titanium,MYC,"MYC proto-oncogene, bHLH transcription factor",6
+chromium,SLC11A2,solute carrier family 11 member 2,5
+cobalt,CDKL2,cyclin dependent kinase like 2,5
+cobalt,CDKN1B,cyclin dependent kinase inhibitor 1B,5
+cobalt,FLG,filaggrin,5
+cobalt,HDC,histidine decarboxylase,5
+cobalt,THBS1,thrombospondin 1,5
+cobalt,TXN2,thioredoxin 2,5
+nickel,TYMS,thymidylate synthetase,5
+titanium,ABCB1,ATP binding cassette subfamily B member 1,5
+titanium,AHR,aryl hydrocarbon receptor,5
+titanium,AR,androgen receptor,5
+titanium,CAB39,calcium binding protein 39,5
+titanium,TAP1,"transporter 1, ATP binding cassette subfamily B member",5
+chromium,ABCB1,ATP binding cassette subfamily B member 1,4
+chromium,CAB39,calcium binding protein 39,4
+chromium,FDXR,ferredoxin reductase,4
+chromium,TAP1,"transporter 1, ATP binding cassette subfamily B member",4
+cobalt,AR,androgen receptor,4
+cobalt,CD86,CD86 molecule,4
+cobalt,FGF1,fibroblast growth factor 1,4
+cobalt,MAP2K4,mitogen-activated protein kinase kinase 4,4
+cobalt,MAPT,microtubule associated protein tau,4
+cobalt,NFKBIA,NFKB inhibitor alpha,4
+cobalt,NQO1,NAD(P)H quinone dehydrogenase 1,4
+cobalt,PTGES,prostaglandin E synthase,4
+cobalt,SLC2A4,solute carrier family 2 member 4,4
+cobalt,XRCC1,X-ray repair cross complementing 1,4
+nickel,MMUT,methylmalonyl-CoA mutase,4
+titanium,EPO,erythropoietin,4
+titanium,VDR,vitamin D receptor,4
+chromium,ACO1,aconitase 1,3
+cobalt,CALR,calreticulin,3
+cobalt,CAV1,caveolin 1,3
+cobalt,CDKN1A,cyclin dependent kinase inhibitor 1A,3
+cobalt,IDH1,isocitrate dehydrogenase (NADP(+)) 1,3
+cobalt,NCF1,neutrophil cytosolic factor 1,3
+cobalt,NCF2,neutrophil cytosolic factor 2,3
+cobalt,RAD51,RAD51 recombinase,3
+nickel,F2,"coagulation factor II, thrombin",3
+nickel,GSTM1,glutathione S-transferase mu 1,3
+nickel,PLK3,polo like kinase 3,3
+titanium,CA1,carbonic anhydrase 1,3
+titanium,CA2,carbonic anhydrase 2,3
+titanium,CASP7,caspase 7,3
+titanium,CCNG2,cyclin G2,3
+titanium,IL5,interleukin 5,3
+titanium,PTGES,prostaglandin E synthase,3
+titanium,SOD1,superoxide dismutase 1,3
+chromium,CCNG2,cyclin G2,2
+chromium,F2,"coagulation factor II, thrombin",2
+chromium,FOLH1,folate hydrolase 1,2
+chromium,TP53TG1,TP53 target 1,2
+cobalt,ABCG1,ATP binding cassette subfamily G member 1,2
+cobalt,ACP5,"acid phosphatase 5, tartrate resistant",2
+cobalt,CD80,CD80 molecule,2
+cobalt,CHPT1,choline phosphotransferase 1,2
+cobalt,CLDN1,claudin 1,2
+cobalt,FYN,"FYN proto-oncogene, Src family tyrosine kinase",2
+cobalt,GJA1,gap junction protein alpha 1,2
+cobalt,HDAC1,histone deacetylase 1,2
+cobalt,PTPN1,protein tyrosine phosphatase non-receptor type 1,2
+cobalt,SFTPB,surfactant protein B,2
+cobalt,STAT1,signal transducer and activator of transcription 1,2
+nickel,GSTA3,glutathione S-transferase alpha 3,2
+nickel,MTR,5-methyltetrahydrofolate-homocysteine methyltransferase,2
+nickel,SOD2,superoxide dismutase 2,2
+nickel,TP53TG1,TP53 target 1,2
+titanium,FGF1,fibroblast growth factor 1,2
+titanium,FOLH1,folate hydrolase 1,2
+titanium,GSTM1,glutathione S-transferase mu 1,2
+titanium,MTR,5-methyltetrahydrofolate-homocysteine methyltransferase,2
+titanium,PTX3,pentraxin 3,2
+titanium,SP1,Sp1 transcription factor,2
+titanium,THBS1,thrombospondin 1,2
+chromium,CA2,carbonic anhydrase 2,1
+chromium,CEACAM1,CEA cell adhesion molecule 1,1
+chromium,METAP1,methionyl aminopeptidase 1,1
+chromium,METAP2,methionyl aminopeptidase 2,1
+chromium,VDR,vitamin D receptor,1
+cobalt,ADI1,acireductone dioxygenase 1,1
+cobalt,AIFM1,apoptosis inducing factor mitochondria associated 1,1
+cobalt,APLNR,apelin receptor,1
+cobalt,CASP2,caspase 2,1
+cobalt,CCN1,cellular communication network factor 1,1
+cobalt,CD83,CD83 molecule,1
+cobalt,ENDOG,endonuclease G,1
+cobalt,EP300,E1A binding protein p300,1
+cobalt,IL5,interleukin 5,1
+cobalt,LCN2,lipocalin 2,1
+cobalt,MAPK8,mitogen-activated protein kinase 8,1
+cobalt,MSH2,mutS homolog 2,1
+cobalt,MSH6,mutS homolog 6,1
+cobalt,NFIX,nuclear factor I X,1
+cobalt,NTRK3,neurotrophic receptor tyrosine kinase 3,1
+cobalt,PLK1,polo like kinase 1,1
+cobalt,PRKDC,"protein kinase, DNA-activated, catalytic subunit",1
+cobalt,YES1,"YES proto-oncogene 1, Src family tyrosine kinase",1
+nickel,APEX1,apurinic/apyrimidinic endodeoxyribonuclease 1,1
+nickel,CBR1,carbonyl reductase 1,1
+nickel,CYP1A1,cytochrome P450 family 1 subfamily A member 1,1
+nickel,CYP1A2,cytochrome P450 family 1 subfamily A member 2,1
+nickel,MAP2K3,mitogen-activated protein kinase kinase 3,1
+nickel,PDE5A,phosphodiesterase 5A,1
+nickel,TCN1,transcobalamin 1,1
+nickel,TCN2,transcobalamin 2,1
+nickel,TNFSF9,TNF superfamily member 9,1
+nickel,TP53I3,tumor protein p53 inducible protein 3,1
+titanium,ACO1,aconitase 1,1
+titanium,AGRN,agrin,1
+titanium,CD80,CD80 molecule,1
+titanium,CD86,CD86 molecule,1
+titanium,CDKL2,cyclin dependent kinase like 2,1
+titanium,CLDN1,claudin 1,1
+titanium,ENPP2,ectonucleotide pyrophosphatase/phosphodiesterase 2,1
+titanium,FLG,filaggrin,1
+titanium,GPX1,glutathione peroxidase 1,1
+titanium,GSTM2,glutathione S-transferase mu 2,1
+titanium,LTBP4,latent transforming growth factor beta binding protein 4,1
+titanium,METAP2,methionyl aminopeptidase 2,1
+titanium,NCK2,NCK adaptor protein 2,1
+titanium,NTRK3,neurotrophic receptor tyrosine kinase 3,1
+titanium,OSMR,oncostatin M receptor,1
+titanium,REL,"REL proto-oncogene, NF-kB subunit",1
+titanium,RHOH,ras homolog family member H,1
+titanium,SDC1,syndecan 1,1
+titanium,SLC2A1,solute carrier family 2 member 1,1
+titanium,TLR5,toll like receptor 5,1
+titanium,TP53I3,tumor protein p53 inducible protein 3,1
+titanium,TYMS,thymidylate synthetase,1
+chromium,AGRN,agrin,0
+chromium,ANXA4,annexin A4,0
+chromium,APEX1,apurinic/apyrimidinic endodeoxyribonuclease 1,0
+chromium,CBLIF,cobalamin binding intrinsic factor,0
+chromium,CEBPZ,CCAAT enhancer binding protein zeta,0
+chromium,CHPF,chondroitin polymerizing factor,0
+chromium,CHSY1,chondroitin sulfate synthase 1,0
+chromium,CHSY3,chondroitin sulfate synthase 3,0
+chromium,CYP1A2,cytochrome P450 family 1 subfamily A member 2,0
+chromium,D2HGDH,D-2-hydroxyglutarate dehydrogenase,0
+chromium,ENPP2,ectonucleotide pyrophosphatase/phosphodiesterase 2,0
+chromium,GSTA3,glutathione S-transferase alpha 3,0
+chromium,GSTM1,glutathione S-transferase mu 1,0
+chromium,LHB,luteinizing hormone subunit beta,0
+chromium,LTA4H,leukotriene A4 hydrolase,0
+chromium,MAP2K3,mitogen-activated protein kinase kinase 3,0
+chromium,MAT2A,methionine adenosyltransferase 2A,0
+chromium,MTR,5-methyltetrahydrofolate-homocysteine methyltransferase,0
+chromium,NCK2,NCK adaptor protein 2,0
+chromium,PDE5A,phosphodiesterase 5A,0
+chromium,PLK3,polo like kinase 3,0
+chromium,PRC1,protein regulator of cytokinesis 1,0
+chromium,SDC1,syndecan 1,0
+chromium,TAX1BP3,Tax1 binding protein 3,0
+chromium,TCN2,transcobalamin 2,0
+chromium,TNFSF9,TNF superfamily member 9,0
+chromium,TP53I3,tumor protein p53 inducible protein 3,0
+chromium,TYMS,thymidylate synthetase,0
+cobalt,AKT1,AKT serine/threonine kinase 1,0
+cobalt,ANKRD50,ankyrin repeat domain 50,0
+cobalt,ANXA1,annexin A1,0
+cobalt,ARL5B,ADP ribosylation factor like GTPase 5B,0
+cobalt,ATP1A2,ATPase Na+/K+ transporting subunit alpha 2,0
+cobalt,ATR,ATR serine/threonine kinase,0
+cobalt,BRCA2,BRCA2 DNA repair associated,0
+cobalt,CASR,calcium sensing receptor,0
+cobalt,CAV3,caveolin 3,0
+cobalt,CCNA1,cyclin A1,0
+cobalt,DIABLO,diablo IAP-binding mitochondrial protein,0
+cobalt,DKK3,dickkopf WNT signaling pathway inhibitor 3,0
+cobalt,EHMT2,euchromatic histone lysine methyltransferase 2,0
+cobalt,FZD4,frizzled class receptor 4,0
+cobalt,GADD45B,growth arrest and DNA damage inducible beta,0
+cobalt,GPD1,glycerol-3-phosphate dehydrogenase 1,0
+cobalt,GSTM2,glutathione S-transferase mu 2,0
+cobalt,GSTM4,glutathione S-transferase mu 4,0
+cobalt,HLA-DRB4,"major histocompatibility complex, class II, DR beta 4",0
+cobalt,HSPA5,heat shock protein family A (Hsp70) member 5,0
+cobalt,IKBKB,inhibitor of nuclear factor kappa B kinase subunit beta,0
+cobalt,IL16,interleukin 16,0
+cobalt,LCK,"LCK proto-oncogene, Src family tyrosine kinase",0
+cobalt,LTBP4,latent transforming growth factor beta binding protein 4,0
+cobalt,MAP2K7,mitogen-activated protein kinase kinase 7,0
+cobalt,MAPK9,mitogen-activated protein kinase 9,0
+cobalt,MCL1,"MCL1 apoptosis regulator, BCL2 family member",0
+cobalt,MGST1,microsomal glutathione S-transferase 1,0
+cobalt,MLH1,mutL homolog 1,0
+cobalt,MT1A,metallothionein 1A,0
+cobalt,MT2A,metallothionein 2A,0
+cobalt,NRAS,"NRAS proto-oncogene, GTPase",0
+cobalt,OSMR,oncostatin M receptor,0
+cobalt,PPBP,pro-platelet basic protein,0
+cobalt,PTX3,pentraxin 3,0
+cobalt,REL,"REL proto-oncogene, NF-kB subunit",0
+cobalt,RGS1,regulator of G protein signaling 1,0
+cobalt,RHOH,ras homolog family member H,0
+cobalt,S100A8,S100 calcium binding protein A8,0
+cobalt,SLC13A4,solute carrier family 13 member 4,0
+cobalt,SLC16A3,solute carrier family 16 member 3,0
+cobalt,SLC6A2,solute carrier family 6 member 2,0
+cobalt,STEAP4,STEAP4 metalloreductase,0
+cobalt,TAPBP,TAP binding protein,0
+cobalt,TBX21,T-box transcription factor 21,0
+cobalt,TLR5,toll like receptor 5,0
+cobalt,ZFP36,ZFP36 ring finger protein,0
+nickel,ABCB11,ATP binding cassette subfamily B member 11,0
+nickel,AGRN,agrin,0
+nickel,AKR1C2,aldo-keto reductase family 1 member C2,0
+nickel,ANXA4,annexin A4,0
+nickel,CEACAM1,CEA cell adhesion molecule 1,0
+nickel,CEBPZ,CCAAT enhancer binding protein zeta,0
+nickel,CHSY1,chondroitin sulfate synthase 1,0
+nickel,CPM,carboxypeptidase M,0
+nickel,CUBN,cubilin,0
+nickel,D2HGDH,D-2-hydroxyglutarate dehydrogenase,0
+nickel,ENPP2,ectonucleotide pyrophosphatase/phosphodiesterase 2,0
+nickel,FOLH1,folate hydrolase 1,0
+nickel,GPX1,glutathione peroxidase 1,0
+nickel,LTA4H,leukotriene A4 hydrolase,0
+nickel,MAT2A,methionine adenosyltransferase 2A,0
+nickel,MBTPS1,"membrane bound transcription factor peptidase, site 1",0
+nickel,MIPEP,mitochondrial intermediate peptidase,0
+nickel,NCK2,NCK adaptor protein 2,0
+nickel,NFE2L2,NFE2 like bZIP transcription factor 2,0
+nickel,POU5F1,POU class 5 homeobox 1,0
+nickel,PRC1,protein regulator of cytokinesis 1,0
+nickel,SDC1,syndecan 1,0
+nickel,TAX1BP3,Tax1 binding protein 3,0
+nickel,XPNPEP1,X-prolyl aminopeptidase 1,0
+nickel,XPNPEP2,X-prolyl aminopeptidase 2,0
+nickel,XPNPEP3,X-prolyl aminopeptidase 3,0
+titanium,ABCB11,ATP binding cassette subfamily B member 11,0
+titanium,ABCG1,ATP binding cassette subfamily G member 1,0
+titanium,ANKRD50,ankyrin repeat domain 50,0
+titanium,ANXA4,annexin A4,0
+titanium,APEX1,apurinic/apyrimidinic endodeoxyribonuclease 1,0
+titanium,APLNR,apelin receptor,0
+titanium,ARL5B,ADP ribosylation factor like GTPase 5B,0
+titanium,CALR,calreticulin,0
+titanium,CASR,calcium sensing receptor,0
+titanium,CBR1,carbonyl reductase 1,0
+titanium,CCN1,cellular communication network factor 1,0
+titanium,CD83,CD83 molecule,0
+titanium,CEACAM1,CEA cell adhesion molecule 1,0
+titanium,CEBPZ,CCAAT enhancer binding protein zeta,0
+titanium,CHPT1,choline phosphotransferase 1,0
+titanium,CHSY1,chondroitin sulfate synthase 1,0
+titanium,CPM,carboxypeptidase M,0
+titanium,CUBN,cubilin,0
+titanium,D2HGDH,D-2-hydroxyglutarate dehydrogenase,0
+titanium,EHMT2,euchromatic histone lysine methyltransferase 2,0
+titanium,FZD4,frizzled class receptor 4,0
+titanium,GADD45B,growth arrest and DNA damage inducible beta,0
+titanium,GPD1,glycerol-3-phosphate dehydrogenase 1,0
+titanium,GSTM4,glutathione S-transferase mu 4,0
+titanium,HDC,histidine decarboxylase,0
+titanium,HK2,hexokinase 2,0
+titanium,HLA-DRB4,"major histocompatibility complex, class II, DR beta 4",0
+titanium,HSPA5,heat shock protein family A (Hsp70) member 5,0
+titanium,IDH1,isocitrate dehydrogenase (NADP(+)) 1,0
+titanium,IL16,interleukin 16,0
+titanium,LCN2,lipocalin 2,0
+titanium,LTA4H,leukotriene A4 hydrolase,0
+titanium,MAP2K3,mitogen-activated protein kinase kinase 3,0
+titanium,MBTPS1,"membrane bound transcription factor peptidase, site 1",0
+titanium,MCL1,"MCL1 apoptosis regulator, BCL2 family member",0
+titanium,MMUT,methylmalonyl-CoA mutase,0
+titanium,MT2A,metallothionein 2A,0
+titanium,NFE2L2,NFE2 like bZIP transcription factor 2,0
+titanium,NFIX,nuclear factor I X,0
+titanium,NRAS,"NRAS proto-oncogene, GTPase",0
+titanium,PDE5A,phosphodiesterase 5A,0
+titanium,PLK3,polo like kinase 3,0
+titanium,POU5F1,POU class 5 homeobox 1,0
+titanium,PPBP,pro-platelet basic protein,0
+titanium,PRC1,protein regulator of cytokinesis 1,0
+titanium,RELA,"RELA proto-oncogene, NF-kB subunit",0
+titanium,RGS1,regulator of G protein signaling 1,0
+titanium,S100A8,S100 calcium binding protein A8,0
+titanium,SLC11A2,solute carrier family 11 member 2,0
+titanium,SLC16A3,solute carrier family 16 member 3,0
+titanium,SLC6A2,solute carrier family 6 member 2,0
+titanium,TAPBP,TAP binding protein,0
+titanium,TAX1BP3,Tax1 binding protein 3,0
+titanium,TBX21,T-box transcription factor 21,0
+titanium,TCN1,transcobalamin 1,0
+titanium,TCN2,transcobalamin 2,0
+titanium,TNFSF9,TNF superfamily member 9,0
+titanium,XPNPEP1,X-prolyl aminopeptidase 1,0
