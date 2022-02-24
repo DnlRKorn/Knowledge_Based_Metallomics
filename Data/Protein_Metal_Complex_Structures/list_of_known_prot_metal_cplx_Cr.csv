@@ -1,0 +1,5 @@
+﻿Entry ID,DOI,PDB ID,Structure Title,Stucture Keywords,Source Organism,Gene Name,Macromolecule Name
+?,?,?,?,MB2716C,?,?,?
+1ZQE,10.1021/bi960790i,1ZQE,DNA POLYMERASE BETA (POL B) (E.C.2.7.7.7) COMPLEXED WITH SEVEN BASE PAIRS OF DNA; SOAKED IN THE PRESENCE OF CRCL3 (SATURATED SOLUTION),TRANSFERASE/DNA,?,?,DNA (5'-D(*CP*AP*TP*TP*AP*GP*AP*A)-3')
+?,?,?,?,?,?,?,DNA (5'-D(*TP*CP*TP*AP*AP*TP*G)-3')
+?,?,?,?,?,Homo sapiens,POLB,PROTEIN (DNA POLYMERASE BETA (E.C.2.7.7.7))

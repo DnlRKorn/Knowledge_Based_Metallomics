@@ -1,0 +1,240 @@
+﻿Entry ID,DOI,PDB ID,Structure Title,Stucture Keywords,Source Organism,Gene Name,Macromolecule Name
+3ALQ,10.1126/scisignal.2000954,3ALQ,Crystal structure of TNF-TNFR2 complex,CYTOKINE/CYTOKINE RECEPTOR,Homo sapiens,TNF,Tumor necrosis factor
+?,?,?,?,?,?,TNFA,?
+?,?,?,?,?,?,TNFSF2,?
+?,?,?,?,?,?,TNF,?
+?,?,?,?,?,?,TNFA,?
+?,?,?,?,?,?,TNFSF2,?
+?,?,?,?,?,Homo sapiens,TNFBR,Tumor necrosis factor receptor superfamily member 1B
+?,?,?,?,?,?,TNFR2,?
+?,?,?,?,?,?,TNFRSF1B,?
+?,?,?,?,?,?,TNFRSF1B,?
+?,?,?,?,?,?,TNFBR,?
+?,?,?,?,?,?,TNFR2,?
+3UT1,?,3UT1,Crystal structure of the 3-MBT repeat domain of L3MBTL3,TRANSCRIPTION,Homo sapiens,L3MBTL3,Lethal(3)malignant brain tumor-like protein 3
+?,?,?,?,?,?,KIAA1798,?
+?,?,?,?,?,?,MBT1,?
+?,?,?,?,?,?,L3MBTL3,?
+?,?,?,?,?,?,KIAA1798,?
+?,?,?,?,?,?,MBT1,?
+4ASK,10.1038/nature11262,4ASK,CRYSTAL STRUCTURE OF JMJD3 WITH GSK-J1,OXIDOREDUCTASE,Homo sapiens,KDM6B,LYSINE-SPECIFIC DEMETHYLASE 6B
+?,?,?,?,?,?,JMJD3,?
+?,?,?,?,?,?,KIAA0346,?
+4B7B,10.1021/jm4006274,4B7B,Eg5-3,CELL CYCLE,Homo sapiens,KIF11,KINESIN-LIKE PROTEIN KIF11
+?,?,?,?,?,?,EG5,?
+?,?,?,?,?,?,KNSL1,?
+?,?,?,?,?,?,TRIP5,?
+4CL7,10.1371/journal.pone.0167755,4CL7,Crystal structure of VEGFR-1 domain 2 in presence of Cobalt,RECEPTOR,Homo sapiens,FLT1,VASCULAR ENDOTHELIAL GROWTH FACTOR RECEPTOR 1
+?,?,?,?,?,?,FLT,?
+?,?,?,?,?,?,FRT,?
+?,?,?,?,?,?,VEGFR1,?
+4D07,10.1021/bi500574z,4D07,"DYNLL2 dynein light chain binds to an extended, unstructured linear motif of myosin 5a tail",MOTOR PROTEIN,Homo sapiens,DYNLL2,"DYNEIN LIGHT CHAIN 2, CYTOPLASMIC"
+?,?,?,?,?,?,DLC2,?
+?,?,?,?,?,Homo sapiens,MYO5A,MYOSIN VA VARIANT
+?,?,?,?,?,?,MYH12,?
+3MZ7,10.1021/bi1005046,3MZ7,Crystal structure of D101L Co2+ HDAC8 complexed with M344,HYDROLASE,Homo sapiens,HDAC8,Histone deacetylase 8
+?,?,?,?,?,?,HDAC8,?
+?,?,?,?,?,?,HDACL1,?
+?,?,?,?,?,?,CDA07,?
+4GJZ,10.1128/MCB.00513-12,4GJZ,JMJD5 in complex with 2-oxoglutarate,OXIDOREDUCTASE,Homo sapiens,JMJD5,JmjC domain-containing protein 5
+?,?,?,?,?,?,JMJD5 (Amino Acids 183 - 416),?
+?,?,?,?,?,?,KDM8,?
+?,?,?,?,?,?,KDM8,?
+?,?,?,?,?,?,JMJD5,?
+3THJ,10.1021/bi201101t,3THJ,Crystal structure of the Co2+2-HAI-L-Orn complex,HYDROLASE,Homo sapiens,ARG1,Arginase-1
+?,?,?,?,?,?,ARG1,?
+4ERO,10.1073/pnas.1221743110,4ERO,Study on structure and function relationships in human Pirin with Cobalt ion,OXIDOREDUCTASE,Homo sapiens,human,Pirin
+?,?,?,?,?,?,PIR,?
+?,?,?,?,?,?,PIR,?
+4KKI,10.1074/jbc.M113.483271,4KKI,Crystal Structure of Haptocorrin in Complex with CNCbl,TRANSPORT PROTEIN,Homo sapiens,TC1,Transcobalamin-1
+?,?,?,?,?,?,TCN1,?
+?,?,?,?,?,?,TCN1,?
+?,?,?,?,?,?,TC1,?
+4N73,10.1074/jbc.M113.545111,4N73,Crystal structure of the ligand binding domain (LBD) of REV-ERB beta bound to Cobalt Protoporphyrin IX,TRANSCRIPTION,Homo sapiens,NR1D2,Nuclear receptor subfamily 1 group D member 2
+?,?,?,?,?,?,R1D2,?
+?,?,?,?,?,?,NR1D2,?
+3VXM,10.1038/srep03097,3VXM,The complex between C1-28 TCR and HLA-A24 bound to HIV-1 Nef134-10(2F) peptide,IMMUNE SYSTEM,Homo sapiens,?,C1-28 TCR beta chain
+?,?,?,?,?,Homo sapiens,HLA-A,"HLA class I histocompatibility antigen, A-24 alpha chain"
+?,?,?,?,?,?,HLA-A,?
+?,?,?,?,?,?,HLAA,?
+?,?,?,?,?,Homo sapiens,B2M,Beta-2-microglobulin
+?,?,?,?,?,?,B2M,?
+?,?,?,?,?,?,CDABP0092,?
+?,?,?,?,?,?,HDCMA22P,?
+?,?,?,?,?,Human immunodeficiency virus 1,nef,10-mer peptide from Protein Nef
+?,?,?,?,?,Homo sapiens,?,C1-28 TCR alpha chain
+3CUN,10.1038/nature07033,3CUN,Aminoacyl-tRNA synthetase ribozyme,RNA/RNA binding,?,?,RNA (92-MER)
+?,?,?,?,?,Homo sapiens,SNRPA,U1 small nuclear ribonucleoprotein A
+?,?,?,?,?,?,SNRPA,?
+3RMU,?,3RMU,"Crystal structure of human Methylmalonyl-CoA epimerase, MCEE",ISOMERASE,Homo sapiens,MCEE,"Methylmalonyl-CoA epimerase, mitochondrial"
+?,?,?,?,?,?,MCEE,?
+3SC0,10.1074/jbc.M111.261370,3SC0,"Crystal Structure of MMACHC (1-238), a human B12 processing enzyme, complexed with MethylCobalamin",OXIDOREDUCTASE,Homo sapiens,MMACHC,Methylmalonic aciduria and homocystinuria type C protein
+?,?,?,?,?,?,MMACHC,?
+3SI8,10.1038/nature09196,3SI8,Human DNA polymerase eta - DNA ternary complex with the 5'T of a CPD in the active site (TT2),TRANSFERASE/DNA,Homo sapiens,POLH,DNA polymerase eta
+?,?,?,?,?,?,RAD30,?
+?,?,?,?,?,?,RAD30A,?
+?,?,?,?,?,?,XPV,?
+?,?,?,?,?,?,POLH,?
+?,?,?,?,?,?,RAD30,?
+?,?,?,?,?,?,RAD30A,?
+?,?,?,?,?,?,XPV,?
+?,?,?,?,?,?,?,DNA (5'-D(*TP*A*AP*CP*(TTD)P*AP*TP*GP*AP*CP*GP*C)-3')
+?,?,?,?,?,?,?,DNA (5'-D(*TP*GP*CP*GP*TP*CP*AP*TP*A)-3')
+3KOK,10.1016/j.abb.2010.07.010,3KOK,Crystal structure of cobalt (II) human carbonic anhydrase II at pH 8.5,LYASE,Homo sapiens,CA2,Carbonic anhydrase 2
+2WNO,10.1074/jbc.M115.669838,2WNO,X-ray Structure of CUB_C domain from TSG-6,CELL ADHESION,Homo sapiens,TNFAIP6,TUMOR NECROSIS FACTOR-INDUCIBLE GENE 6 PROTEIN
+?,?,?,?,?,?,TSG6,?
+2XPH,10.1107/S1744309111005835,2XPH,Crystal structure of human SENP1 with the bound cobalt,HYDROLASE,Homo sapiens,SENP1,SENTRIN-SPECIFIC PROTEASE 1
+3I8V,?,3I8V,Crystal structure of human PDE4a with 4-(3-butoxy-4-methoxyphenyl)methyl-2-imidazolidone,HYDROLASE,Homo sapiens,PDE4A,"cAMP-specific 3',5'-cyclic phosphodiesterase 4A"
+?,?,?,?,?,?,DPDE2,?
+?,?,?,?,?,?,PDE4A,?
+?,?,?,?,?,?,DPDE2,?
+3QQ7,10.1016/j.str.2011.03.018,3QQ7,Crystal Structure of the p97 N-terminal domain,TRANSPORT PROTEIN,Homo sapiens,VCP,Transitional endoplasmic reticulum ATPase
+?,?,?,?,?,?,VCP,?
+5C6C,10.1074/jbc.M115.691303,5C6C,PKG II's Amino Terminal Cyclic Nucleotide Binding Domain (CNB-A) in a complex with cAMP,PROTEIN BINDING,Homo sapiens,PRKG2,cGMP-dependent protein kinase 2
+?,?,?,?,?,?,PRKGR2,?
+?,?,?,?,?,?,PRKG2,?
+?,?,?,?,?,?,PRKGR2,?
+5E8G,10.1021/acs.biochem.5b01121,5E8G,Crystal structure of the DNA binding domain of human transcription factor FLI1,DNA BINDING PROTEIN,Homo sapiens,FLI1,Friend leukemia integration 1 transcription factor
+?,?,?,?,?,?,FLI1,?
+3KYO,10.1016/j.jmb.2010.01.052,3KYO,Crystal structure of HLA-G presenting KLPAQFYIL peptide,IMMUNE SYSTEM,Homo sapiens,HLA-G,MHC class I antigen
+?,?,?,?,?,?,HLA-G,?
+?,?,?,?,?,?,HLA-6.0,?
+?,?,?,?,?,?,HLAG,?
+?,?,?,?,?,Homo sapiens,B2M,Beta-2-microglobulin
+?,?,?,?,?,?,CDABP0092,?
+?,?,?,?,?,?,HDCMA22P,?
+?,?,?,?,?,?,B2M,?
+?,?,?,?,?,?,CDABP0092,?
+?,?,?,?,?,?,HDCMA22P,?
+?,?,?,?,?,?,?,KLPAQFYIL peptide
+3NZH,?,3NZH,Crystal structure of anti-emmprin antibody 5F6 FAB,IMMUNE SYSTEM,Homo sapiens,?,5F6 LIGHT CHAIN
+?,?,?,?,?,Mus musculus,?,?
+?,?,?,?,?,Homo sapiens,?,5F6 HEAVY CHAIN
+?,?,?,?,?,Mus musculus,?,?
+3P0F,10.1016/j.jsb.2011.08.002,3P0F,Structure of hUPP2 in an inactive conformation with bound 5-benzylacyclouridine,TRANSFERASE,Homo sapiens,UPP2,Uridine phosphorylase 2
+?,?,?,?,?,?,UPP2,?
+5CLS,10.1021/acschembio.5b00755,5CLS,Structure of human methionine aminopeptidase-2 complexed with spiroepoxytriazole inhibitor (+)-31a,HYDROLASE,Homo sapiens,METAP2,Methionine aminopeptidase 2
+?,?,?,?,?,?,MNPEP,?
+?,?,?,?,?,?,P67EIF2,?
+?,?,?,?,?,?,METAP2,?
+?,?,?,?,?,?,MNPEP,?
+?,?,?,?,?,?,P67EIF2,?
+5NSA,10.1371/journal.pone.0184932,5NSA,"Beta domain of human transcobalamin bound to Co-beta-[2-(2,4-difluorophenyl)ethinyl]cobalamin",TRANSPORT PROTEIN,Homo sapiens,TCN2,Transcobalamin-2
+?,?,?,?,?,?,TC2,?
+?,?,?,?,?,?,TCN2,?
+?,?,?,?,?,?,TC2,?
+4WZX,10.7554/eLife.06547,4WZX,ULK3 regulates cytokinetic abscission by phosphorylating ESCRT-III proteins,CELL CYCLE,Homo sapiens,ULK3,Serine/threonine-protein kinase ULK3
+?,?,?,?,?,?,ULK3,?
+?,?,?,?,?,Homo sapiens,IST1,IST1 homolog
+?,?,?,?,?,?,KIAA0174,?
+4XYJ,10.1038/nature14405,4XYJ,"Crystal structure of human phosphofructokinase-1 in complex with ATP and Mg, Northeast Structural Genomics Consortium Target HR9275",TRANSFERASE,Homo sapiens,PFKP,"ATP-dependent 6-phosphofructokinase, platelet type"
+?,?,?,?,?,?,PFKF,?
+?,?,?,?,?,?,PFKP,?
+?,?,?,?,?,?,PFKF,?
+3SOM,10.1021/bi300150y,3SOM,crystal structure of human MMACHC,OXIDOREDUCTASE,Homo sapiens,MMACHC,Methylmalonic aciduria and homocystinuria type C protein
+?,?,?,?,?,?,MMACHC,?
+3M5A,10.1074/jbc.M110.114587,3M5A,SET7/9 Y245A in complex with TAF10-K189me3 peptide and AdoHcy,TRANSFERASE,Homo sapiens,KIAA1717,Histone-lysine N-methyltransferase SETD7
+?,?,?,?,?,?,KMT7,?
+?,?,?,?,?,?,SET7,?
+?,?,?,?,?,?,SET9,?
+?,?,?,?,?,?,SETD7,?
+?,?,?,?,?,?,SETD7,?
+?,?,?,?,?,?,KIAA1717,?
+?,?,?,?,?,?,KMT7,?
+?,?,?,?,?,?,SET7,?
+?,?,?,?,?,?,SET9,?
+?,?,?,?,?,Homo sapiens,TAF10,TAF10-K189me3 Peptide
+?,?,?,?,?,?,TAF2A,?
+?,?,?,?,?,?,TAF2H,?
+?,?,?,?,?,?,TAFII30,?
+4PGZ,10.1016/j.molcel.2014.11.021,4PGZ,Structural basis of KIT activation by oncogenic mutations in the extracellular region reveals a zipper-like mechanism for ligand-dependent or oncogenic receptor tyrosine kinase activation,TRANSFERASE,Homo sapiens,KIT,Mast/stem cell growth factor receptor Kit
+?,?,?,?,?,?,SCFR,?
+?,?,?,?,?,?,KIT,?
+?,?,?,?,?,?,SCFR,?
+2PMV,10.1073/pnas.0703228104,2PMV,Crystal Structure of Human Intrinsic Factor- Cobalamin Complex at 2.6 A Resolution,TRANSPORT PROTEIN,Homo sapiens,CBLIF,Gastric intrinsic factor
+?,?,?,?,?,?,GIF,?
+?,?,?,?,?,?,IFMH,?
+1DZI,10.1016/S0092-8674(00)80622-4,1DZI,integrin alpha2 I domain / collagen complex,INTEGRIN,Homo sapiens,ITGA2,INTEGRIN
+?,?,?,?,?,?,CD49B,?
+?,?,?,?,?,synthetic construct,?,COLLAGEN
+2NA5,10.1002/cmdc.201600073,2NA5,NMR solution structure of vitamin B12 conjugates of PYY3-36,HORMONE,Homo sapiens,PYY,Peptide YY
+5TH9,10.1074/jbc.M116.760579,5TH9,"Structure determination of a potent, selective antibody inhibitor of human MMP9 (GS-5745 bound to MMP-9)",hydrolase/hydrolase inhibitor,Oryctolagus cuniculus,?,GS-5745 Fab light chain
+?,?,?,?,?,Homo sapiens,MMP9,"Matrix metalloproteinase-9,Matrix metalloproteinase-9"
+?,?,?,?,?,?,CLG4B,?
+?,?,?,?,?,Homo sapiens,MMP9,?
+?,?,?,?,?,?,CLG4B,?
+?,?,?,?,?,Oryctolagus cuniculus,?,GS-5745 Fab heavy chain
+4JKA,10.1038/nsmb.2556,4JKA,Open and closed forms of R1865A human PRP8 RNase H-like domain with bound Co ion,RNA BINDING PROTEIN,Homo sapiens,PRP8,Pre-mRNA-processing-splicing factor 8
+?,?,?,?,?,?,PRPC8,?
+?,?,?,?,?,?,PRPF8,?
+?,?,?,?,?,?,PRPF8,?
+?,?,?,?,?,?,PRPC8,?
+4JK9,10.1038/nsmb.2556,4JK9,Open and closed forms of wild-type human PRP8 RNase H-like domain with bound Co ion,RNA BINDING PROTEIN,Homo sapiens,PRP8,Pre-mRNA-processing-splicing factor 8
+?,?,?,?,?,?,PRPC8,?
+?,?,?,?,?,?,PRPF8,?
+?,?,?,?,?,?,PRPF8,?
+?,?,?,?,?,?,PRPC8,?
+5UFE,10.1038/s41598-017-05889-7,5UFE,Wild-type K-Ras(GNP)/R11.1.6 complex,Hydrolase/DE NOVO PROTEIN,Homo sapiens,KRAS,GTPase KRas
+?,?,?,?,?,?,KRAS2,?
+?,?,?,?,?,?,RASK2,?
+?,?,?,?,?,?,KRAS,?
+?,?,?,?,?,?,KRAS2,?
+?,?,?,?,?,?,RASK2,?
+?,?,?,?,?,Saccharolobus solfataricus,?,R11.1.6
+5HPE,10.1073/pnas.1603059113,5HPE,Phosphatase domain of PP5 bound to a phosphomimetic Cdc37 substrate peptide,HYDROLASE,Homo sapiens,PPP5C,"Serine/threonine-protein phosphatase 5,Hsp90 co-chaperone Cdc37"
+?,?,?,?,?,?,PPP5,?
+?,?,?,?,?,Homo sapiens,CDC37,?
+2UZP,?,2UZP,Crystal structure of the C2 domain of human protein kinase C gamma.,TRANSFERASE,Homo sapiens,PRKCG,PROTEIN KINASE C GAMMA TYPE
+?,?,?,?,?,?,PKCG,?
+9ICB,10.1021/bi960790i,9ICB,"DNA POLYMERASE BETA (E.C.2.7.7.7)/DNA COMPLEX + 2'-DEOXYADENOSINE-5'-TRIPHOSPHATE, SOAKED IN THE PRESENCE OF DATP AND COCL2",TRANSFERASE/DNA,?,?,DNA (5'-D(*TP*CP*TP*AP*AP*TP*G)-3')
+?,?,?,?,?,?,?,DNA (5'-D(*CP*AP*TP*TP*AP*GP*AP*A)-3')
+?,?,?,?,?,Homo sapiens,POLB,PROTEIN (DNA POLYMERASE BETA (E.C.2.7.7.7))
+2JF5,10.1038/embor.2009.55,2JF5,crystal structure of Lys63-linked di-ubiquitin,SIGNALING PROTEIN,Homo sapiens,UBC,UBIQUITIN
+2K9C,10.1073/pnas.0708460105,2K9C,Paramagnetic shifts in solid-state NMR of Proteins to elicit structural information,HYDROLASE,Homo sapiens,MMP12,Macrophage metalloelastase
+?,?,?,?,?,?,HME,?
+?,?,?,?,?,?,MMP12,?
+?,?,?,?,?,?,HME,?
+2GZ5,10.1110/ps.062278006,2GZ5,Human Type 1 methionine aminopeptidase in complex with ovalicin at 1.1 Ang,HYDROLASE,Homo sapiens,METAP1,Methionine aminopeptidase 1
+?,?,?,?,?,?,KIAA0094,?
+?,?,?,?,?,?,METAP1,?
+?,?,?,?,?,?,KIAA0094,?
+2GLI,10.1126/science.8378770,2GLI,FIVE-FINGER GLI/DNA COMPLEX,TRANSCRIPTION/DNA,?,?,DNA (5'-D(*TP*TP*TP*CP*GP*TP*CP*TP*TP*GP*GP*GP*TP*GP*GP*TP*CP*CP*AP*CP*G)-3')
+?,?,?,?,?,?,?,DNA (5'-D(*AP*CP*GP*TP*GP*GP*AP*CP*CP*AP*CP*CP*CP*AP*AP*GP*AP*CP*GP*AP*A)-3')
+?,?,?,?,?,Homo sapiens,GLI ONCOGENE,PROTEIN (FIVE-FINGER GLI)
+?,?,?,?,?,?,GLI1,?
+?,?,?,?,?,?,GLI,?
+1RRK,10.1016/s1097-2765(04)00160-1,1RRK,Crystal Structure Analysis of the Bb segment of Factor B,HYDROLASE,Homo sapiens,BF,Complement factor B
+?,?,?,?,?,?,CFB,?
+?,?,?,?,?,?,BF,?
+?,?,?,?,?,?,BFD,?
+1T31,10.1074/jbc.M501302200,1T31,A Dual Inhibitor of the Leukocyte Proteases Cathepsin G and Chymase with Therapeutic Efficacy in Animals Models of Inflammation,HYDROLASE,Homo sapiens,CMA1,Chymase
+?,?,?,?,?,?,CYM,?
+?,?,?,?,?,?,CYH,?
+?,?,?,?,?,?,CMA1,?
+?,?,?,?,?,?,CYH,?
+?,?,?,?,?,?,CYM,?
+1TU4,10.1038/nsmb832,1TU4,Crystal Structure of Rab5-GDP Complex,PROTEIN TRANSPORT,Homo sapiens,RAB5A,Ras-related protein Rab-5A
+?,?,?,?,?,?,RAB5,?
+?,?,?,?,?,?,RAB5A,?
+?,?,?,?,?,?,RAB5,?
+1Y98,10.1021/bi0509651,1Y98,Structure of the BRCT repeats of BRCA1 bound to a CtIP phosphopeptide.,ANTITUMOR PROTEIN,Homo sapiens,BRCA1,Breast cancer type 1 susceptibility protein
+?,?,?,?,?,?,BRCA1,?
+?,?,?,?,?,?,RNF53,?
+?,?,?,?,?,?,?,CtIP PHOSPHORYLATED PEPTIDE
+1YDP,10.1073/pnas.0409676102,1YDP,1.9A crystal structure of HLA-G,IMMUNE SYSTEM,Homo sapiens,HLA-G,MHC class I antigen
+?,?,?,?,?,?,HLA-6.0,?
+?,?,?,?,?,?,HLAG,?
+?,?,?,?,?,Homo sapiens,B2M,Beta-2-microglobulin
+?,?,?,?,?,?,CDABP0092,?
+?,?,?,?,?,?,HDCMA22P,?
+?,?,?,?,?,synthetic construct,?,histone 2a peptide
+1UV5,10.1016/j.chembiol.2003.11.010,1UV5,GLYCOGEN SYNTHASE KINASE 3 BETA COMPLEXED WITH 6-BROMOINDIRUBIN-3'-OXIME,TRANSFERASE,Homo sapiens,GSK3B,GLYCOGEN SYNTHASE KINASE-3 BETA
+1OBX,10.1016/s0969-2126(03)00125-4,1OBX,Crystal structure of the complex of PDZ2 of syntenin with an interleukin 5 receptor alpha peptide.,CELL ADHESION,Homo sapiens,SDCBP,SYNTENIN 1
+?,?,?,?,?,?,MDA9,?
+?,?,?,?,?,?,SYCL,?
+?,?,?,?,?,Homo sapiens,IL5RA,INTERLEUKIN 5 RECEPTOR ALPHA
+?,?,?,?,?,?,IL5R,?
+2B3H,10.1021/bi051691k,2B3H,Crystal structure of Human Methionine Aminopeptidase Type I with a third cobalt in the active site,HYDROLASE,Homo sapiens,METAP1,Methionine aminopeptidase 1
+?,?,?,?,?,?,KIAA0094,?
+?,?,?,?,?,?,METAP1,?
+?,?,?,?,?,?,KIAA0094,?
